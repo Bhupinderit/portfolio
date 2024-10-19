@@ -1,6 +1,6 @@
 
 /* to do list*/
-{
+
 body {
     font-family: Arial, sans-serif;
     display: flex;
@@ -78,4 +78,3 @@ body {
   button.delete:hover {
     background-color: #c82333;
   }
-}
