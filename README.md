@@ -22,9 +22,9 @@ This portfolio highlights my skills, projects, and experience in web development
 - JavaScript
 
 ## Installation
-To view my portfolio locally, clone this repository and open the `portfolio.html` file in your browser.
+To view my portfolio locally, clone this repository and open the `https://github.com/Bhupinderit/portfolio` file in your browser.
 
 ```bash
-git clone https://github.com/yourusername/your-portfolio-repo.git
+git clone https://github.com/Bhupinderit/portfolio.git
 cd your-portfolio-repo
-open portfolio.html
+open https://github.com/Bhupinderit/portfolio
